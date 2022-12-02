@@ -1,3 +1,4 @@
+//Poovarasan
 const express = require('express');
 const nodemailer = require('nodemailer'); //use nodemail npm and send to maill access on the mail 2 step verify allow the our mail
 console.log(`Wellcome To Mail Send Application `);
